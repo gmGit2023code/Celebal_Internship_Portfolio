@@ -2,32 +2,41 @@
 
 ## 📂 Assignment Submissions
 | Week | Project | Tech Stack | Documentation | Status |
-|------|---------|------------|---------------|--------|
-| 7 | [SQL Data Analysis Project](Week7_SQL_Data_Analysis/) | SQL, Python | [README](Week7_SQL_Data_Analysis/README.md) | Completed ✅ |
-| 8 | [GenAI Loan Assistant](Week8_Celebal_Gen_AI/) | FAISS, Sentence-Transformers, Streamlit | [README](Week8_Celebal_Gen_AI/README.md) | Submitted |
+|-------|---------|------------|----------------|--------|
+| 7 | [SQL Data Analysis Project](SQL%20Week%207/) | SQL, Python | [README](SQL%20Week%207/README.md) | Completed ✅ | 
+| 8 | [GenAI Loan Assistant](Celebal_Gen_AI/) | FAISS, Sentence-Transformers, Streamlit | [README](Celebal_Gen_AI/README.md) | Submitted |
 
 ## 📝 Submission Note
 
-**To the Evaluation Team:**  
+**To the Evaluation Committee:**
 
-Please find both my Week 7 (SQL Data Analysis) and Week 8 (GenAI Loan Assistant) submissions in this repository.  
+This repository contains both my Week 7 (SQL Data Analysis) and Week 8 (GenAI Loan Assistant) submissions for comprehensive review:
 
-While Week 8's assignment is being submitted through the official portal, I've included Week 7's completed work here for comprehensive review. I sincerely apologize for the oversight in submitting Week 7's work through the proper channel - this was entirely my responsibility.  
+1. **Week 7 - SQL Data Analysis**  
+   - 📂 [Project Folder](SQL%20Week%207/)  
+   - 📄 [Detailed Documentation](SQL%20Week%207/README.md)  
+   - ✅ Completed all requirements including:  
+     - Advanced query optimization  
+     - Data visualization  
+     - Analysis reporting  
 
-**Key Highlights of Included Work:**  
-✔ **Week 7 SQL Project**:  
-   - Complex query optimization  
-   - Data visualization  
-   - Comprehensive analysis documentation  
+2. **Week 8 - GenAI Loan Assistant**  
+   - 📂 [Project Folder](Celebal_Gen_AI/)  
+   - 📄 [Technical Documentation](Celebal_Gen_AI/README.md)  
+   - 🚀 Key Features:  
+     - Vector similarity search implementation  
+     - LLM-powered question answering  
+     - User-friendly Streamlit interface  
 
-✔ **Week 8 GenAI Project**:  
-   - Vector similarity search  
-   - LLM-powered Q&A system  
-   - Production-ready Streamlit interface  
+**Note Regarding Week 7 Submission:**  
+I sincerely regret not submitting Week 7's work through the official portal by the deadline. The project was completed on time and is included here for full transparency. I've since implemented organizational measures to prevent such oversights.
 
-Both projects include:  
-- Complete source code  
-- Detailed READMEs with setup instructions  
-- Requirements files for easy reproduction  
+Both projects are:  
+✔ Fully functional  
+✔ Thoroughly documented  
+✔ Ready for demonstration  
 
-I would be grateful for your consideration in evaluating both assignments. Please don't hesitate to contact me if you need any clarification or additional materials.
+Please don't hesitate to contact me if you require:  
+- Additional explanation of any implementation details  
+- Live demonstration of either project  
+- Supplementary materials
